@@ -7,7 +7,7 @@ const Home: React.FC = () => {
     <div className={styles.container}>
       <Head>
         <title>My Next.js App</title>
-        <meta name="description" content="A sample Next.js app using TypeScript" />
+        <meta name="description" content="A sample Next.js app using TypeScriptttttttttt" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
