@@ -12,7 +12,7 @@ const Home: React.FC = () => {
       </Head>
 
       <header className={styles.header}>
-        <h1>Welcome to My Next.js Appppppppp</h1>
+        <h1>Welcome to My Next.js Apppppppppaaa</h1>
       </header>
 
       <main className={styles.main}>
